@@ -1,6 +1,8 @@
 # Desenvolvimento de Software e o Mercado de IA em 2026
 Este repositório/caderno contém uma investigação profunda sobre a transformação radical do papel do programador frente à ascensão da Inteligência Artificial Generativa e Agêntica. O foco principal é a transição do "escritor de código" para o "maestro de sistemas".
 
+### Link do NotebookLM: https://notebooklm.google.com/notebook/5720d88a-d3eb-417e-ac00-627b96bff8a7
+
 ## 🎯 Objetivos de Estudo
 Compreender a Mudança de Paradigma: Identificar as diferenças entre Software 1.0 (manual), 2.0 (redes neurais) e 3.0 (linguagem natural como compilador)
 .
